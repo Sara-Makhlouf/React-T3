@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sara-Makhlouf/React-T3.git/static/css/main.a81ea3cc.css",
+    "main.js": "/Sara-Makhlouf/React-T3.git/static/js/main.d9dbc542.js",
+    "static/js/453.e2204bd4.chunk.js": "/Sara-Makhlouf/React-T3.git/static/js/453.e2204bd4.chunk.js",
+    "index.html": "/Sara-Makhlouf/React-T3.git/index.html",
+    "main.a81ea3cc.css.map": "/Sara-Makhlouf/React-T3.git/static/css/main.a81ea3cc.css.map",
+    "main.d9dbc542.js.map": "/Sara-Makhlouf/React-T3.git/static/js/main.d9dbc542.js.map",
+    "453.e2204bd4.chunk.js.map": "/Sara-Makhlouf/React-T3.git/static/js/453.e2204bd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a81ea3cc.css",
+    "static/js/main.d9dbc542.js"
+  ]
+}
