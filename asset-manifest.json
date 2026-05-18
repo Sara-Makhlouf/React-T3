@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sara-Makhlouf/React-T3/static/css/main.7e20f08e.css",
-    "main.js": "/Sara-Makhlouf/React-T3/static/js/main.23b68467.js",
-    "static/js/453.e2204bd4.chunk.js": "/Sara-Makhlouf/React-T3/static/js/453.e2204bd4.chunk.js",
-    "index.html": "/Sara-Makhlouf/React-T3/index.html",
-    "main.7e20f08e.css.map": "/Sara-Makhlouf/React-T3/static/css/main.7e20f08e.css.map",
-    "main.23b68467.js.map": "/Sara-Makhlouf/React-T3/static/js/main.23b68467.js.map",
-    "453.e2204bd4.chunk.js.map": "/Sara-Makhlouf/React-T3/static/js/453.e2204bd4.chunk.js.map"
+    "main.css": "/React-T3/static/css/main.7e20f08e.css",
+    "main.js": "/React-T3/static/js/main.b594293a.js",
+    "static/js/453.e2204bd4.chunk.js": "/React-T3/static/js/453.e2204bd4.chunk.js",
+    "index.html": "/React-T3/index.html",
+    "main.7e20f08e.css.map": "/React-T3/static/css/main.7e20f08e.css.map",
+    "main.b594293a.js.map": "/React-T3/static/js/main.b594293a.js.map",
+    "453.e2204bd4.chunk.js.map": "/React-T3/static/js/453.e2204bd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e20f08e.css",
-    "static/js/main.23b68467.js"
+    "static/js/main.b594293a.js"
   ]
 }
